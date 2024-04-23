@@ -1,1 +1,3 @@
 i am fixing bug
+
+the bug is fixed
